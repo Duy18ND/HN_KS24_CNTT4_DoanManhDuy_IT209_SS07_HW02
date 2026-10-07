@@ -16,4 +16,5 @@ sudo ufw allow 8082/tcp
 # 3. Kích hoạt tường lửa
 sudo ufw enable
 
-<img width="534" height="297" alt="image" src="https://github.com/user-attachments/assets/149811cf-ad6b-4003-8862-a4961e477786" />
+<img width="534" height="297" alt="Ảnh chụp màn hình 2026-10-07 171805" src="https://github.com/user-attachments/assets/bdba9aa2-bcd9-486c-bb12-3ad9b14d82bd" />
+
